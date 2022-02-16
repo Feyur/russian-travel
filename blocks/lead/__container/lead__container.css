@@ -1,0 +1,16 @@
+.lead__container {
+  margin: 0 148px 0;
+}
+
+@media (max-width: 1023px) {
+  .lead__container {
+    margin: 0 24px 0;
+  }
+}
+
+@media (max-width: 727px) {
+  .lead__container {
+    margin: 0;
+  }
+}
+

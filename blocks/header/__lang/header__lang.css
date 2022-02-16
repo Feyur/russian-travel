@@ -1,0 +1,11 @@
+.header__lang {
+  min-width: 77px;
+}
+
+@media (max-width: 293px) {
+  .header__lang {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+}

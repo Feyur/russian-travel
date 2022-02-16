@@ -1,0 +1,9 @@
+.place__image-container {
+  flex-basis: 50%;
+}
+
+@media (max-width: 629px) {
+  .place__image-container {
+    flex-basis: 100%;
+  }
+}

@@ -1,0 +1,36 @@
+.places__place {
+  margin: 0 148px 80px;
+}
+
+.places__place:first-child {
+  margin-top: 0;
+}
+
+.places__place:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 1023px) {
+  .places__place  {
+    margin: 64px 48px 80px;
+  }
+}
+
+@media (max-width: 767px) {
+  .places__place  {
+    margin: 64px 24px 80px;
+  }
+}
+
+@media (max-width: 629px) {
+  .places__place  {
+    margin: 50px 24px 80px;
+  }
+}
+
+@media (max-width: 420px) {
+  .places__place  {
+    margin: 50px 0;
+  }
+}
+

@@ -1,0 +1,14 @@
+.footer__link {
+  font-size: 16px;
+  line-height: 1.12;
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 629px) {
+  .footer__link {
+    gap: 32px;
+  }
+}
+
+

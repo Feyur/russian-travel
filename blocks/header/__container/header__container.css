@@ -1,0 +1,27 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  background: #2A2C2F;
+  padding: 28px 48px;
+  margin: 0 auto 56px;
+  align-items: center;
+}
+
+@media (max-width: 429px) {
+  .header__container {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 293px) {
+  .header__container {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 293px) {
+  .header__container {
+    padding: 0;
+  }
+}

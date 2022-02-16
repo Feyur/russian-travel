@@ -1,0 +1,17 @@
+.place__link {
+  color: white;
+  font-size: 18px;
+  line-height: 1.22;
+}
+
+@media (max-width: 767px) {
+  .place__link {
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 293px) {
+  .place__link {
+    font-size: 13px;
+  }
+}

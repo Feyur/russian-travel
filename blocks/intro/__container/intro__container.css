@@ -1,0 +1,26 @@
+.intro__container {
+  padding-bottom: 92px;
+  margin: 0 148px 0;
+}
+
+@media (max-width: 1023px) {
+  .intro__container {
+    margin: 0 48px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .intro__container {
+    margin: 0 24px 64px;
+    padding-bottom: 88px;
+  }
+}
+
+
+@media (max-width: 429px) {
+  .intro__container {
+    margin: 0 16px 0;
+    padding-bottom: 64px;
+  }
+}
+
