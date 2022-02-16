@@ -1,4 +1,4 @@
-.place__header {
+.places__header {
   display: flex;
   margin-bottom: 48px;
   gap: 8%;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 629px) {
-  .place__header {
+  .places__header {
     margin: 0;
     flex-wrap: wrap;
   }
@@ -14,14 +14,14 @@
 }
 
 @media (max-width: 429px) {
-  .place__header {
+  .placse__header {
     margin: 0 16px;
   }
 }
 
 
 @media (max-width: 293px) {
-  .place__header {
+  .places__header {
     margin: 0;
   }
 }

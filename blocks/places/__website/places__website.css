@@ -1,18 +1,18 @@
-.place__website {
+.places__website {
   margin: auto 0 0 0;
   flex-basis: 50%;
   gap: 40px;
 }
 
 @media (max-width: 629px) {
-  .place__website {
+  .places__website {
     margin: 0 0 32px;
     width: 50%;
   }
 }
 
 @media (max-width: 429px) {
-  .place__website {
+  .places__website {
     margin: 0 0 32px;
     width: 50%;
   }

@@ -1,11 +1,11 @@
-.place__content {
+.places__content {
   display: flex;
   gap: 8%;
 }
 
 
 @media (max-width: 629px) {
-  .place__content {
+  .places__content {
     flex-wrap: wrap;
   }
 }
