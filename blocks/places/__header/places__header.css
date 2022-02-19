@@ -14,7 +14,7 @@
 }
 
 @media (max-width: 429px) {
-  .placse__header {
+  .places__header {
     margin: 0 16px;
   }
 }

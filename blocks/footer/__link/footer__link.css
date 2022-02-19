@@ -8,6 +8,8 @@
 @media (max-width: 629px) {
   .footer__link {
     gap: 32px;
+    font-size: 24px;
+    line-height: 1;
   }
 }
 

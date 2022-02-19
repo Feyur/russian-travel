@@ -10,27 +10,21 @@
   margin-bottom: 0;
 }
 
+@media (max-width: 1279px) {
+  .places__place  {
+    margin: 80px 48px 80px;
+  }
+}
+
 @media (max-width: 1023px) {
   .places__place  {
-    margin: 64px 48px 80px;
-  }
-}
-
-@media (max-width: 767px) {
-  .places__place  {
-    margin: 64px 24px 80px;
-  }
-}
-
-@media (max-width: 629px) {
-  .places__place  {
-    margin: 50px 24px 80px;
+    margin: 73px 24px 73px;
   }
 }
 
 @media (max-width: 420px) {
   .places__place  {
-    margin: 50px 0;
+    margin: 50px 0 50px;
   }
 }
 
